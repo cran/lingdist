@@ -1,0 +1,15 @@
+a44d400cfead1314f3550e93a869c0cc *DESCRIPTION
+e28f31b5d6e4f04ff9c7beacf9389871 *NAMESPACE
+a3bb663e137af3de8033f8ad90f8aaab *NEWS.md
+41bbd886a0a6bad99f8df5568d1f7e2f *R/RcppExports.R
+df6cc46bc7fae1a55b713f3d5065b35a *R/lingdist-package.R
+96c7741461572fb5722926a94485bf51 *README.md
+d3f1fb9c48a85b826769426b7bc861f8 *man/check_cost_defined.Rd
+507bcc3a8e3511555c05f6463e4a2cca *man/edit_dist_df.Rd
+47930597520941a6e1f8e8999960a48e *man/edit_dist_string.Rd
+6d55d0f6484b92a6b52452be16640d92 *man/generate_default_cost_matrix.Rd
+cc907c9f2c458cb661aa5fdd2ff610f2 *man/lingdist-package.Rd
+0b9579f96d5e898e6b2dd10c721bc749 *man/long2squareform.Rd
+078d84212081b320d445773e90a34596 *src/Makevars
+9348ad526d432d615300fad524f33243 *src/RcppExports.cpp
+4d779392899a305395e3d74daae56be3 *src/edit_dist.cpp
